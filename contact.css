@@ -36,4 +36,17 @@ html {
 #nav li {
     list-style-type: none;
     display: inline;
+
+h2 {
+    margin-right: 60%;
+ }
+
+ p1 {
+    margin-right: 60%;
+ }
+
+ p2 {
+    margin-right: 60%;
+ }
+}
 }
