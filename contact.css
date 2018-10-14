@@ -55,13 +55,13 @@ html, body {
 }
 
 #title h2 {
-    padding-left: .25em;
+    padding-left: 1cm;
 }
 
-#p1 p { 
-    padding-left: .25em;
+p1 { 
+    padding-left: 1cm;
  }
 
-#p2 p {
-    padding-left: .25em; 
+p2 {
+    padding-left: 1cmm; 
 }
