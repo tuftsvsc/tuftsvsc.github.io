@@ -3,8 +3,9 @@ html {
 }
 
 #header {
-    margin-top: 1% auto;
-    display: inline;
+    margin: 0 auto;
+    padding-top: 1% auto;
+    text-align: center;
 }
 
 #header a:link, #header a:visited {
@@ -13,6 +14,7 @@ html {
 
 #logo {
     display: inline-block;
+    margin-right: 60%;
 }
 
 #logo img{
@@ -39,4 +41,6 @@ html {
 #nav a {
     text-decoration: none;
     font-weight: bold;
+    padding: 0 0.25em;
+    margin: 0 0.25em;
 }
