@@ -1,0 +1,39 @@
+html {
+    font-family: "Raleway", sans-serif;
+}
+
+#header {
+    margin: 0 auto;
+    padding-top: 1% auto;
+    text-align: center;
+}
+
+#header a:link, #header a:visited {
+    color: black;
+}
+
+#logo {
+    display: inline-block;
+    margin-right: 60%;
+}
+
+#logo img{
+    vertical-align: middle;
+    height: 1.5em;
+    width: 1.5em;
+}
+
+#logo a {
+    font-size: 1.25em;
+    font-weight: bolder;
+    text-decoration: none;
+}
+
+#nav {
+    display: inline-block;
+}
+
+#nav li {
+    list-style-type: none;
+    display: inline;
+}
