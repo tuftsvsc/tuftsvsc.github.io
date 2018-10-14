@@ -53,3 +53,15 @@ html, body {
     padding: 0 0.25em;
     margin: 0 0.25em;
 }
+
+#title h2 {
+    padding-left: .25em;
+}
+
+#p1 p { 
+    padding-left: .25em;
+ }
+
+#p2 p {
+    padding-left: .25em; 
+}
