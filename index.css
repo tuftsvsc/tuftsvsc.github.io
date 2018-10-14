@@ -2,9 +2,18 @@ html {
     font-family: "Raleway", sans-serif;
 }
 
-#logo {
-    height: 10px;
-    width: 10px;
+#nav {
+    text-align: center;
+    margin-top: 1% 5%;
+}
+
+#logo img{
+    height: 1.5em;
+    width: 1.5em;
+}
+
+#logo a {
+    font-size: 1.25em;
 }
 
 #nav li {
